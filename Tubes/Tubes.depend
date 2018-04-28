@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524913953 source:c:\users\yogi\documents\strukdat\tubes\main.cpp
+	<iostream>
+	"maskapai.h"
+	"bandara.h"
+	"koneksi.h"
+
+1524914619 c:\users\yogi\documents\strukdat\tubes\maskapai.h
+	<iostream>
+	"koneksi.h"
+	"bandara.h"
+
+1524915132 source:c:\users\yogi\documents\strukdat\tubes\koneksi.cpp
+	"koneksi.h"
+	"maskapai.h"
+	"bandara.h"
+
+1524914736 c:\users\yogi\documents\strukdat\tubes\koneksi.h
+	<iostream>
+	"bandara.h"
+	"maskapai.h"
+
+1524892350 c:\users\yogi\documents\strukdat\tubes\bandara.h
+	<iostream>
+
+1524909914 source:c:\users\yogi\documents\strukdat\tubes\bandara.cpp
+	"bandara.h"
+	"maskapai.h"
+	"koneksi.h"
+
+1524914619 source:c:\users\yogi\documents\strukdat\tubes\maskapai.cpp
+	"maskapai.h"
+	"bandara.h"
+	"koneksi.h"
+
